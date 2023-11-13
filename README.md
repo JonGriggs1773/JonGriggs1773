@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jon Griggs</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on [VisionBoard](https://github.com/JonGriggs1773/VisionBoard)
+- 🔭 I’m currently working on my Portfolio Website
 
 - 🌱 I’m currently learning **a vast realm of API's, Frameworks, and Libraries associated with Python or JS**
 
